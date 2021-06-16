@@ -3,23 +3,23 @@ import 'package:avaliacao_pdm/models/classes.dart';
 const CLASSES_MOCK = const [
   Classe(
     id: 'px',
-    classe: 'Peixe',
+    classe: 'Peixes',
   ),
   Classe(
     id: 'an',
-    classe: 'Anfíbio',
+    classe: 'Anfíbios',
   ),
   Classe(
     id: 're',
-    classe: 'Réptil',
+    classe: 'Répteis',
   ),
   Classe(
     id: 'av',
-    classe: 'Ave',
+    classe: 'Aves',
   ),
   Classe(
     id: 'mm',
-    classe: 'Mamífero',
+    classe: 'Mamíferos',
   ),
 
 ];
